@@ -1,6 +1,6 @@
 FPGA Implementation of Modified Error Normalized LMS Adaptive Filter for ECG Noise Removal
 
-Overview
+##Overview
 
 This project presents the FPGA implementation of a Modified Error Normalized Least Mean Square (DENLMS) adaptive filter for real-time ECG noise removal. The design is implemented using Verilog HDL and synthesized on a Virtex-5 FPGA using Xilinx ISE. Functional simulation and verification are carried out using ModelSim.
 
